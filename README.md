@@ -19,7 +19,7 @@ Source: https://drive.google.com/file/d/1Xpfmecb4PmW-CEqFuiLdelZx4jWxZTD-/view?u
 OpenAQ souhaiterait mettre en ligne sur son site un fichier qui permet de comparer des mesures de l'air récentes, relevées sur un jour donné, partout dans le monde. Pour cela, on te demande de nettoyer les données dont on dispose pour l'instant.  
 Source: https://drive.google.com/file/d/1NnwIVdBng0Ct9rw-WfSEM6fGB9TtYcyv/view?usp=sharing
 
-- Supprimer les données qui ne concernent pas la journée du 06-08-2021.
-- Supprimer les données qui sont illisibles et pour lesquelles on ne comprend pas la ville concernée.
-- Pour chaque polluant, vérifier qu'on n'a qu'une seule mesure utilisée. Autrement, supprimer les données qui correspondent à la mesure minoritaire ou moins cohérente.
-- Regarder s'il y a des valeurs aberrantes ou des problèmes par rapport à notre objectif final (pouvoir comparer des mesures sur un maximum de pays) et noter ces aspects dans un fichier texte.
+1) Supprimer les données qui ne concernent pas la journée du 06-08-2021.
+2) Supprimer les données qui sont illisibles et pour lesquelles on ne comprend pas la ville concernée.
+3) Pour chaque polluant, vérifier qu'on n'a qu'une seule mesure utilisée. Autrement, supprimer les données qui correspondent à la mesure minoritaire ou moins cohérente.
+4) Regarder s'il y a des valeurs aberrantes ou des problèmes par rapport à notre objectif final (pouvoir comparer des mesures sur un maximum de pays) et noter ces aspects dans un fichier texte.
